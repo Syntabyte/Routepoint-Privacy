@@ -1,2 +1,4 @@
 # Routepoint-Privacy
-theme: jekyll-theme-
+
+# Privacy Policy
+This app does not collect nor share any personal information.
