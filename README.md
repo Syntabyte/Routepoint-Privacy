@@ -1,6 +1,7 @@
-# Routepoint-Privacy
+# Routepoint
 
 ### Privacy Policy
 This app does not collect nor share any personal information.
 
-This application is created and maintained by SyntaByte
+### Deverloper
+This application is created and maintained by **SyntaByte**.
