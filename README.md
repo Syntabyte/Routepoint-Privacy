@@ -1,5 +1,5 @@
 ### Privacy Policy
 This app does not collect nor share any personal information.
 
-### Deverloper
+### Developer
 This application is created and maintained by **SyntaByte**.
